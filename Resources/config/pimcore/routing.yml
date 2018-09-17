@@ -1,0 +1,5 @@
+divante_workflow_board:
+    resource: "@DivanteWorkflowBoardBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
