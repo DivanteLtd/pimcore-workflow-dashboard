@@ -14,7 +14,7 @@ This plugin requires Pimcore >= 5.3.0
 ## Installing/Getting started
 ### First step
 ```
-composer require divante-ltd/pimcore5-notifications
+composer require divante-ltd/workflow-board-bundle
 ```
 ### Second step
 Open Extension tab in admin panel and install plugin. After this, installation is finished.
